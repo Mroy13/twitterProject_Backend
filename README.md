@@ -1,0 +1,1 @@
+Welcome to the Twitter Clone Backend! This project serves as the backend for a Twitter-like social media platform. It is built using Node.js for server-side logic and MongoDB as the database.
